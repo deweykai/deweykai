@@ -15,11 +15,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Projects
+# Past Projects
 
 ## Robotics
 
 ### Shopping robot
 
+[repo](https://github.com/deweykai/intro-robotics-final-project)
+
+Write a controller for a robot in webots that autonomously discovers and collects little yellow cubes.
+
 https://github.com/deweykai/deweykai/assets/20485731/c3c80efd-d495-4681-8833-d2fd3d088d6b
 
+### Autonomous RC car
+
+The controller and hardware interfaces for a small RC car to autonomously race down hallways. 
+
+## OS
+
+### Linux block device
+
+[repo](https://github.com/deweykai/os-class)
+
+Wrote a simple block device module for the linux kernel. The module would read/write to a small buffer in linux memory. 
+
+## Graphics
+
+### Ray tracer
+
+[repo](https://github.com/deweykai/ray-tracer)
+
+A simple ray tracer program that generates an image. Only supports spheres. 
+
+## Web
+
+### Software Development methods final project
+
+[repo](https://github.com/deweykai/software-development-final-project)
+
+The project was to create a website where a user could write reviews for movies and view other reviews.
