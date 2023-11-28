@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Projects
+
+## Robotics
+
+### Shopping robot
+
+![shopping robot](assets/grocery_shopping_robot.mp4)
