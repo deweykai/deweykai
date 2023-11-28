@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 ### Shopping robot
 
-![shopping robot](assets/grocery_shopping_robot.mp4)
+https://github.com/deweykai/deweykai/assets/20485731/c3c80efd-d495-4681-8833-d2fd3d088d6b
+
