@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 ## Robotics
 
+### Autonomous RC car
+
+The controller and hardware interfaces for a small RC car to autonomously race down hallways. 
+
+https://www.youtube.com/watch?v=4It8QEYqIBM
+
 ### Shopping robot
 
 [repo](https://github.com/deweykai/intro-robotics-final-project)
@@ -26,10 +32,6 @@ Here are some ideas to get you started:
 Write a controller for a robot in webots that autonomously discovers and collects little yellow cubes.
 
 https://github.com/deweykai/deweykai/assets/20485731/c3c80efd-d495-4681-8833-d2fd3d088d6b
-
-### Autonomous RC car
-
-The controller and hardware interfaces for a small RC car to autonomously race down hallways. 
 
 ## OS
 
