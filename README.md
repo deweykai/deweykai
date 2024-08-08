@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 
 ## Robotics
 
+### Autonomous navigation for uneven terrain
+
+Design and built a navigatio system for a prototype rover which runs on rough uneven terrain with GPS waypoints.
+
+[repo](https://github.com/team19-haql/haql-rover)
+
+https://github.com/user-attachments/assets/b817b008-f781-44e9-83ea-e87a9571bd40
+
 ### Autonomous RC car
 
 The controller and hardware interfaces for a small RC car to autonomously race down hallways. 
