@@ -64,3 +64,10 @@ A simple ray tracer program that generates an image. Only supports spheres.
 [repo](https://github.com/deweykai/software-development-final-project)
 
 The project was to create a website where a user could write reviews for movies and view other reviews.
+
+
+## Compilers
+
+### Python to x86 compiler
+
+Built a compiler which translates python to raw x86 assembly. Includes support for datatypes like lists and dictionaries, as well as functions and dynamic types. 
